@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 24e0df5e35e2b734eacb558ad99f4819
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 15-prt0
+    100002: 15-prt1
+    100004: 15-prt10
+    100006: 15-prt11
+    100008: 15-prt12
+    100010: 15-prt13
+    100012: 15-prt2
+    100014: 15-prt3
+    100016: 15-prt4
+    100018: 15-prt5
+    100020: 15-prt6
+    100022: 15-prt7
+    100024: 15-prt8
+    100026: 15-prt9
+    100028: //RootNode
+    100030: HV8_\u30e1\u30a4\u30f3\u30ea\u30f3\u30af_116577-404X
+    400000: 15-prt0
+    400002: 15-prt1
+    400004: 15-prt10
+    400006: 15-prt11
+    400008: 15-prt12
+    400010: 15-prt13
+    400012: 15-prt2
+    400014: 15-prt3
+    400016: 15-prt4
+    400018: 15-prt5
+    400020: 15-prt6
+    400022: 15-prt7
+    400024: 15-prt8
+    400026: 15-prt9
+    400028: //RootNode
+    400030: HV8_\u30e1\u30a4\u30f3\u30ea\u30f3\u30af_116577-404X
+    2100000: 15-prt0Mat
+    2100002: 15-prt1Mat
+    2100004: 15-prt10Mat
+    2100006: 15-prt11Mat
+    2100008: 15-prt12Mat
+    2100010: 15-prt13Mat
+    2100012: 15-prt2Mat
+    2100014: 15-prt3Mat
+    2100016: 15-prt4Mat
+    2100018: 15-prt5Mat
+    2100020: 15-prt6Mat
+    2100022: 15-prt7Mat
+    2100024: 15-prt8Mat
+    2100026: 15-prt9Mat
+    2100028: HV8__u30e1_u30a4_u30f3_u30ea_u30f3_u30af_116577-404XMat
+    2300000: 15-prt0
+    2300002: 15-prt1
+    2300004: 15-prt10
+    2300006: 15-prt11
+    2300008: 15-prt12
+    2300010: 15-prt13
+    2300012: 15-prt2
+    2300014: 15-prt3
+    2300016: 15-prt4
+    2300018: 15-prt5
+    2300020: 15-prt6
+    2300022: 15-prt7
+    2300024: 15-prt8
+    2300026: 15-prt9
+    2300028: HV8_\u30e1\u30a4\u30f3\u30ea\u30f3\u30af_116577-404X
+    3300000: 15-prt0
+    3300002: 15-prt1
+    3300004: 15-prt10
+    3300006: 15-prt11
+    3300008: 15-prt12
+    3300010: 15-prt13
+    3300012: 15-prt2
+    3300014: 15-prt3
+    3300016: 15-prt4
+    3300018: 15-prt5
+    3300020: 15-prt6
+    3300022: 15-prt7
+    3300024: 15-prt8
+    3300026: 15-prt9
+    3300028: HV8_\u30e1\u30a4\u30f3\u30ea\u30f3\u30af_116577-404X
+    4300000: 15-prt0
+    4300002: 15-prt1
+    4300004: 15-prt10
+    4300006: 15-prt11
+    4300008: 15-prt12
+    4300010: 15-prt13
+    4300012: 15-prt2
+    4300014: 15-prt3
+    4300016: 15-prt4
+    4300018: 15-prt5
+    4300020: 15-prt6
+    4300022: 15-prt7
+    4300024: 15-prt8
+    4300026: 15-prt9
+    4300028: HV8_\u30e1\u30a4\u30f3\u30ea\u30f3\u30af_116577-404X
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.001
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
